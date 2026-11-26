@@ -1,3 +1,6 @@
 node_modules
 dist
 *.mp4
+audio_out/
+bgm.mp3
+

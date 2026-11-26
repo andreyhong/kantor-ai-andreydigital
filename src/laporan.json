@@ -1,58 +1,41 @@
 {
-  "raka": {
-    "ringkasan": "Enam paket tender baru; dua cocok, satu Rakor Dinas Contoh sedang dikejar.",
+  "riset": {
+    "ringkasan": "Automasi Restoran & Bisnis Kuliner F&B (Order & Reservasi Otomatis) disempurnakan mandiri; skor riset 92/100 (Sempurna).",
     "menunggu": [
-      "Setujui batch email B012 (30 kontak)"
+      "Luncurkan penawaran automasi sektor Restoran & Bisnis Kuliner F&B (Order & Reservasi Otomatis)"
     ],
     "angka": [
       {
-        "label": "Paket baru",
-        "nilai": "6 paket"
+        "label": "Mutu riset",
+        "nilai": "92 Pts"
       }
     ]
   },
-  "sekar": {
-    "ringkasan": "Tiga kampus contoh membalas penawaran; satu minta sampel.",
+  "admin": {
+    "ringkasan": "SOP & form onboarding Restoran & Bisnis Kuliner F&B (Order & Reservasi Otomatis) tuntas; skor operasional 96/100.",
     "menunggu": [
-      "Kirim sampel ke Kampus Contoh?"
+      "Kirim proposal ke prospek Restoran & Bisnis Kuliner F&B (Order & Reservasi Otomatis)"
     ],
     "angka": [
       {
-        "label": "Calon klien",
-        "nilai": "12 kontak"
+        "label": "Skor mutu",
+        "nilai": "93/100"
+      },
+      {
+        "label": "Siklus tuntas",
+        "nilai": "Siklus #2"
       }
     ]
   },
-  "gilang": {
-    "ringkasan": "Brief video Festival Contoh masuk; storyboard awal disiapkan.",
-    "mendesak": [
-      "Tenggat penawaran Festival Contoh besok 10.00"
-    ]
-  },
-  "riska": {
-    "ringkasan": "212 email dirapikan; dua email phishing ditandai.",
+  "konten": {
+    "ringkasan": "Carousel & caption Restoran & Bisnis Kuliner F&B (Order & Reservasi Otomatis) siap rilis; skor copywriting 92/100.",
     "menunggu": [
-      "Periksa draf invoice termin 2"
+      "Jadwalkan rilis carousel Restoran & Bisnis Kuliner F&B (Order & Reservasi Otomatis) di IG/LinkedIn"
     ],
     "angka": [
       {
-        "label": "Email dilabel",
-        "nilai": "212 email"
-      }
-    ]
-  },
-  "esok": {
-    "ringkasan": "Tiga alternatif konsep Rakor Dinas Contoh selesai.",
-    "menunggu": [
-      "Pilih konsep Rakor Dinas Contoh"
-    ]
-  },
-  "lita": {
-    "ringkasan": "Deck 14 slide Festival Contoh siap ditinjau.",
-    "angka": [
-      {
-        "label": "Desain selesai",
-        "nilai": "4 berkas"
+        "label": "Mutu konten",
+        "nilai": "92 Pts"
       }
     ]
   }
