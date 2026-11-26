@@ -7,9 +7,9 @@ import laporanAgen from './laporan.json';
 import type { GayaId } from './gaya/daftar';
 
 export const KANTOR = {
-  nama: 'andreydigital.site',
+  nama: 'karyawan.andreydigital.site',
   /** Baris kecil di bawah nama (mis. nama perusahaan). */
-  subjudul: 'AI Automation',
+  subjudul: 'AI Automation · andreydigital.site',
 };
 
 /**
